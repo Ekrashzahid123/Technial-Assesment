@@ -1,7 +1,7 @@
 # AI Extraction Prompts & JSON Schemas
 
-**Assessment Reference:** MATACS-TH-2026-02  
-**Application:** AI-Assisted Proposal Triage Tool  
+ 
+
 
 This document contains the exact production prompts and JSON schema specifications used by the AI extraction layer. The pipeline enforces **strict Data-Instruction Separation** to guard against adversarial prompt injection (such as that found in Proposal D).
 

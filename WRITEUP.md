@@ -1,7 +1,6 @@
 # AI Proposal Triage Design: Technical Write-Up
 
-**Candidate Assessment:** MATACS-TH-2026-02  
-**Role:** Associate Software Developer  
+
 **Category:** Commercial Solar Installation (150 kW Rooftop, Windsor, ON)
 
 ---
